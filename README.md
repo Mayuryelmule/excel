@@ -1,4 +1,4 @@
-#Excel
+# Excel
 
 ●	Created a web version of Excel using vanilla JavaScript, HTML and CSS.
 
