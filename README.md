@@ -186,10 +186,3 @@ Give it a ⭐ on GitHub and feel free to contribute!
 
 ---
 
-If you want, I can also:
-
-* 🔥 Add **GitHub badges (cool looking)**
-* 🎯 Make a **short version for resume**
-* 🗣️ Prepare **viva explanation for this project**
-
-Just tell me 👍
